@@ -1,7 +1,7 @@
-CAB BOOKING SYSTEM
+TAXI BOOKING SYSTEM
 
 About the project:
-A cab booking application that helps people to move from one place to other
+A taxi booking application that helps people to move from one place to other
 Languages and framework used: Java, Swings, OOPS
 
 Output:
