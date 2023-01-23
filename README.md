@@ -1,10 +1,12 @@
 TAXI BOOKING SYSTEM
 
-About this project
+![image](https://user-images.githubusercontent.com/117114012/214107132-a26df29d-2332-4672-9d5a-55eac5a27be9.png)
+
 
 A taxi booking application that helps people to move from one place to other
 
-Languages and frameworks used:
+![image](https://user-images.githubusercontent.com/117114012/214107224-cfaf4826-3fe4-4f5e-a597-afa80c82f3c2.png)
+
 
 JAVA
 
