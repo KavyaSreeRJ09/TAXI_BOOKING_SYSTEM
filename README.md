@@ -1,9 +1,10 @@
-TAXI BOOKING SYSTEM
+![image](https://user-images.githubusercontent.com/117114012/214110291-8c697b10-0b98-4d67-952a-2574db4aceff.png)
 
 ![image](https://user-images.githubusercontent.com/117114012/214107132-a26df29d-2332-4672-9d5a-55eac5a27be9.png)
 
 
-A taxi booking application that helps people to move from one place to other
+A taxi booking application that helps people to move from one place to other.Users can book a taxi with a single tap and they just have to enter the pickup location and destination. 
+Payment: The users of the taxi booking application will get payment options. Users can make payment at their convenience.
 
 ![image](https://user-images.githubusercontent.com/117114012/214107224-cfaf4826-3fe4-4f5e-a597-afa80c82f3c2.png)
 
@@ -14,8 +15,8 @@ SWING
 
 OOPS
 
+![image](https://user-images.githubusercontent.com/117114012/214107585-48bb2ff9-6d55-40e7-b3cc-6b8e29004193.png)
 
-Output:
 
 Login form
 
