@@ -1,10 +1,12 @@
 TAXI BOOKING SYSTEM
 
 About the project:
+
 A taxi booking application that helps people to move from one place to other
 Languages and framework used: Java, Swings, OOPS
 
 Output:
+
 	Login form
 
  ![1](https://user-images.githubusercontent.com/82211151/199168347-c4cd7335-9dca-476a-9c86-dc3ff1a58d83.png)
