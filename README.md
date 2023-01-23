@@ -1,13 +1,10 @@
 ![image](https://user-images.githubusercontent.com/117114012/214110291-8c697b10-0b98-4d67-952a-2574db4aceff.png)
 
-![image](https://user-images.githubusercontent.com/117114012/214107132-a26df29d-2332-4672-9d5a-55eac5a27be9.png)
-
-
+![image](https://user-images.githubusercontent.com/117114012/214110989-23e1a220-cdb8-43d6-b411-3ad7350823ad.png)
 A taxi booking application that helps people to move from one place to other.Users can book a taxi with a single tap and they just have to enter the pickup location and destination. 
 Payment: The users of the taxi booking application will get payment options. Users can make payment at their convenience.
 
-![image](https://user-images.githubusercontent.com/117114012/214107224-cfaf4826-3fe4-4f5e-a597-afa80c82f3c2.png)
-
+![image](https://user-images.githubusercontent.com/117114012/214110679-5edd517d-ff37-4ead-b60e-5c867e621582.png)
 
 JAVA
 
@@ -76,8 +73,7 @@ Update booking
 
 Payment
 
- ![8](https://user-images.githubusercontent.com/82211151/199172326-be833b65-c4fa-4ab7-9ccd-8cd98a2dcb38.png)
- 
+![image](https://user-images.githubusercontent.com/117114012/214111107-8f909c43-3507-42cf-a9d7-eff216a3a697.png) 
  
                                 THANKYOU
 
