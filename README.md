@@ -3,15 +3,16 @@
 ABOUT THE PROJECT:
 
 A taxi booking application that helps people to move from one place to other.Users can book a taxi with a single tap and they just have to enter the pickup location and destination. 
+
 Payment: The users of the taxi booking application will get payment options. Users can make payment at their convenience.
 
 LANGAUGES AND FRAMEWORKS USED:
 
-JAVA
+  -->JAVA
 
-SWING
+  -->SWING
 
-OOPS
+  -->OOPS
 
 OUTPUT:
 
@@ -73,7 +74,6 @@ Update booking
 
 Payment
 
-![image](https://user-images.githubusercontent.com/117114012/214905924-110a5af7-db85-4e51-bb3a-53634970ad8b.png)
  ![8](https://user-images.githubusercontent.com/82211151/199172326-be833b65-c4fa-4ab7-9ccd-8cd98a2dcb38.png)
 
  
