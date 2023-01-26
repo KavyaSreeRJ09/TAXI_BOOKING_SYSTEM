@@ -73,7 +73,8 @@ Update booking
 
 Payment
 
-![image](https://user-images.githubusercontent.com/117114012/214111107-8f909c43-3507-42cf-a9d7-eff216a3a697.png) 
+![image](https://user-images.githubusercontent.com/117114012/214905924-110a5af7-db85-4e51-bb3a-53634970ad8b.png)
+ ![8](https://user-images.githubusercontent.com/82211151/199172326-be833b65-c4fa-4ab7-9ccd-8cd98a2dcb38.png)
 
  
                                 THANKYOU
